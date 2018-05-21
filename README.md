@@ -14,3 +14,5 @@ UI built with Skeleton
 -- success and error alerts disappearing after specific time
 
 - Deleting book
+
+- Local Storage
